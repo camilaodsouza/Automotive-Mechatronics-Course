@@ -1,8 +1,5 @@
 /*
-
-Código para medição da distância a partir da resposta 
-do par emissor/receptor infravermelho
-
+Code to measure distance from object using IR sensor
 */
 
 int IRsensor = A0;
